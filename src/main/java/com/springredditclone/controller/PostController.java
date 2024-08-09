@@ -18,6 +18,7 @@ import com.springredditclone.serviceImpl.PostServiceImpl;
 
 @RestController
 @RequestMapping("/api/posts")
+	// i am editing this file to commit changes
 public class PostController {
 
 	@Autowired
